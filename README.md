@@ -1,7 +1,5 @@
 # jpa01-mihirkondapalli
 
-  https://jpa01-mihirkondapalli.dokku-10.cs.ucsb.edu
-
 Deployed at: https://jpa01-mihirkondapalli.dokku-10.cs.ucsb.edu
 
 # About this repo
